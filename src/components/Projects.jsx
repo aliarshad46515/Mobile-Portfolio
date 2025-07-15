@@ -37,7 +37,7 @@ const Projects = () => {
         "SQLite",
         "Authentication",
       ],
-      githubUrl: "https://www.github.com/aliarshad46515/Rent-Hive/",
+      githubUrl: "https://www.github.com/aliarshad46515/RentHive/",
       featured: true,
     },
     {
